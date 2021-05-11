@@ -12,3 +12,5 @@ index = random.randint(0,names_size-1)
 
 print(f"{names[index]} is going to buy the meal today!")
 
+print(f"{random.choice(names)} is going to buy the meal today!")
+
